@@ -1,0 +1,155 @@
+Current directory: /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts
+Sequential PartA (Optimized with -O2)
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/sequential_PartA: No such file or directory
+
+SIMD(AVX2) PartA (Optimized with -O2)
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/simd_PartA: No such file or directory
+srun: error: node02: task 0: Exited with exit code 2
+
+MPI PartA (Optimized with -O2)
+Number of processes: 1
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+
+Number of processes: 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+srun: error: node02: tasks 0-1: Exited with exit code 2
+
+Number of processes: 4
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+srun: error: node02: tasks 0-3: Exited with exit code 2
+
+Number of processes: 8
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+srun: error: node02: tasks 0-7: Exited with exit code 2
+
+Number of processes: 16
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+srun: error: node02: tasks 0-15: Exited with exit code 2
+
+Number of processes: 32
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/mpi_PartA: No such file or directory
+srun: error: node02: tasks 0-31: Exited with exit code 2
+
+Pthread PartA (Optimized with -O2)
+Number of cores: 1
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/pthread_PartA: No such file or directory
+
+Number of cores: 2
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/pthread_PartA: No such file or directory
+
+Number of cores: 4
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/pthread_PartA: No such file or directory
+
+Number of cores: 8
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/pthread_PartA: No such file or directory
+
+Number of cores: 16
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/pthread_PartA: No such file or directory
+
+Number of cores: 32
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/pthread_PartA: No such file or directory
+
+OpenMP PartA (Optimized with -O2)
+Number of cores: 1
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/openmp_PartA: No such file or directory
+
+Number of cores: 2
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/openmp_PartA: No such file or directory
+
+Number of cores: 4
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/openmp_PartA: No such file or directory
+
+Number of cores: 8
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/openmp_PartA: No such file or directory
+
+Number of cores: 16
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/openmp_PartA: No such file or directory
+
+Number of cores: 32
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/cpu/openmp_PartA: No such file or directory
+
+CUDA PartA
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/gpu/cuda_PartA: No such file or directory
+
+OpenACC PartA
+srun: error: node02: task 0: Exited with exit code 2
+slurmstepd: error: execve(): /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../build/src/gpu/openacc_PartA: No such file or directory
+
+Triton PartA
+Input file from: /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/118010020/build1/CUHKSZ-CSC4005/project1/src/scripts/../../images/20K-Gray.jpg
+Transformation Complete!
+Execution Time: 2.70 milliseconds
+
